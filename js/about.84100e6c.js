@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpractica_consolidacion_games_opinion"]=self["webpackChunkpractica_consolidacion_games_opinion"]||[]).push([[443],{865:function(n,c,a){a.r(c),a.d(c,{default:function(){return l}});var o=a(252);const i=n=>((0,o.dD)("data-v-2cc466d4"),n=n(),(0,o.Cn)(),n),e={class:"about"},s=i((()=>(0,o._)("h1",null,"Proximamente más Juegos",-1))),t=[s];function r(n,c){return(0,o.wg)(),(0,o.iD)("div",e,t)}var u=a(744);const d={},_=(0,u.Z)(d,[["render",r],["__scopeId","data-v-2cc466d4"]]);var l=_}}]);
+//# sourceMappingURL=about.84100e6c.js.map
